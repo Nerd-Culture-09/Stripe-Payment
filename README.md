@@ -1,6 +1,6 @@
 # Stripe-Payment
 
-This project demonstrates how to integrate **Stripe Payments** into a Next.js application.
+This project integrates **Stripe Payments** into a Next.js application.
 
 ## Features
 - **Nextjs App**
@@ -18,7 +18,7 @@ This project demonstrates how to integrate **Stripe Payments** into a Next.js ap
     - Integrating multiple payment methods ( current credit cards only).
 
 3. **Creating an API Route Handler**
-    - Securely processing payments using Stripe's API.
+    - Payments are securely processed using Stripe's API.
     - Handling post requests to create **payment intents** for processing payments.
 
 4. **Redirecting to a Success Page**
