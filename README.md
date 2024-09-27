@@ -125,7 +125,6 @@ Follow these steps to set up **LCL.host** for local HTTPS testing:
 - **Multiple Domains**: You can work with subdomains locally, which is particularly useful when managing cookies across multiple domains.
 - **Compatibility**: Works with various frameworks like **Next.js**, **Python**, **Go**, and **JavaScript**.
 
-For more information, visit [LCL.host](https://lcl.host) or follow the tutorial in the video linked [here](https://www.youtube.com/watch?v=fgbEwVWlpsI&t=484s).
-
+For more information, visit [LCL.host](https://lcl.host) 
 
 
